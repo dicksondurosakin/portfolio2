@@ -1,0 +1,11 @@
+asgiref==3.4.1
+autopep8==1.6.0
+Django==4.0
+django-environ==0.8.1
+pycodestyle==2.8.0
+python-http-client==3.3.4
+sendgrid==6.9.2
+sqlparse==0.4.2
+starkbank-ecdsa==2.0.3
+toml==0.10.2
+tzdata==2021.5
